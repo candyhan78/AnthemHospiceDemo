@@ -1,0 +1,157 @@
+﻿
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+ul {
+    margin-top: 30px;
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    padding: 10px;
+    color: #808080;
+}
+
+.ul1 {
+    color: #808080;
+    font-size: 18px;
+}
+
+.clear {
+    clear: both;
+}
+
+.divcontent {
+    margin-left: 150px;
+    margin-top: 50px
+}
+
+.divcontent2 {
+    color: #808080;
+    font-size: 16px;
+    display: inline;
+}
+
+.divcontent3 {
+    color: #808080;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+
+#divspacing {
+    margin-left: 132px;
+}
+
+.pformat2bold {
+    color: #808080;
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.pformat {
+    font-weight: bold;
+    font-size: 18px;
+    display: inline;
+}
+
+.pformat2 {
+    color: #808080;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.pformat3 {
+    color: #808080;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+#spacing {
+    margin-left: 20px;
+}
+
+table {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #808080;
+    font-size: 18px;
+    margin-left: 150px;
+}
+
+.tdtext {
+    width: 150px;
+}
+
+.tdbox {
+    width: 205px;
+}
+
+.table1 {
+    width: 35%;
+    float: left;
+}
+
+.table2 {
+    border-collapse: collapse;
+    width: 35%;
+    float: left;
+}
+
+.td1 {
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+th {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.td2 {
+    border: 1px solid black;
+    text-align: center;
+    height: 100px;
+}
+
+.td3 {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+    white-space: nowrap;
+}
+
+.span1 {
+    font-weight: bold;
+    font-size: 24px;
+    color: black;
+}
+
+
+.boxing {
+    float: left;
+    width: 25%;
+    padding: 50px;
+}
+
+textarea {
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    resize: none;
+    -webkit-box-sizing: border-box; /* <=iOS4, <= Android  2.3 */
+    -moz-box-sizing: border-box; /* FF1+ */
+    box-sizing: border-box; /* Chrome, IE8, Opera, Safari 5.1*/
+}
